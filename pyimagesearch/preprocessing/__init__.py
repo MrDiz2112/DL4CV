@@ -1,0 +1,1 @@
+from pyimagesearch.preprocessing.simplepreprocessor import SimplePreprocessor
